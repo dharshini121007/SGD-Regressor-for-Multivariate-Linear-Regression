@@ -9,10 +9,15 @@ To write a program to predict the price of the house and number of occupants in 
 
 ## Algorithm
 1.Import the necessary Python libraries and load the dataset into the program for analysis.
+
 2.Separate the input features and output values from the dataset for model training.
+
 3.Split the dataset into training data and testing data to train and evaluate the model properly.
+
 4.Train the regression model using the SGD Regressor algorithm with the training dataset.
+
 5.Predict the output values using the testing dataset and evaluate the model performance using accuracy measures like MSE, MAE, and R² score.
+
 ## Program:
 ```
 /*
